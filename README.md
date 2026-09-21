@@ -1,17 +1,13 @@
-👋 Bienvenue sur mon profil GitHub !
-Je suis Mohammed Ahadjji, ingénieur en informatique, avec une expertise dans le développement de projets full-stack, incluant des technologies comme Symfony, Angular, Django, et Docker. Passionné par la création de solutions innovantes et robustes, j'aime explorer de nouvelles technologies et partager mes connaissances.
+# Mohammed Ahadjji
 
-🔧 Compétences techniques
-Frontend : Angular, JavaScript, HTML, CSS
-Backend : Symfony, Django, Node.js
-Base de données : MySQL, PostgreSQL
-DevOps : Docker, CI/CD, Nginx
-Langages : PHP, Python, TypeScript
-📘 Projets phares
-Application de gestion de location de voitures - Développée avec Symfony, intégrant une gestion multilingue et des fonctionnalités avancées pour la gestion de véhicules et de réservations.
-API RESTful avec Django - Création d'une API pour le suivi des données météorologiques.
-Composants personnalisés avec Angular - Construction de modules dynamiques et réutilisables.
-📫 Contact
-Vous pouvez me contacter par LinkedIn ou directement via email.
+I am a State Engineer in Computer Science with a strong interest in software engineering, backend development, and AI-powered applications. My main expertise is focused on Java, JEE, and Spring Boot, with additional experience in PHP and Symfony, as well as modern frontend technologies such as Angular and React.
 
-Merci de visiter mon profil ! N'hésitez pas à explorer mes dépôts et à me suivre pour découvrir mes futurs projets.
+I design and develop robust, scalable, and maintainable applications, with a particular interest in REST APIs, microservices architectures, secure backend systems, and database-driven applications. I also work with PostgreSQL, MySQL, Oracle, and PL/SQL, and have experience with Docker, CI/CD, Jenkins, Nginx, and Git.
+
+My recent projects have allowed me to explore AI and intelligent automation through technologies such as Flowise, Rasa, n8n, RAG, vector databases, and LLM-based applications. I am particularly interested in combining traditional software engineering with AI to build practical and reliable solutions.
+
+I have worked on projects including a banking chatbot CMS developed with Spring Boot and Rasa, an intelligent Hadith assistant using Flowise, Spring Boot, n8n and PostgreSQL/pgvector, as well as full-stack applications built with Symfony and Angular.
+
+I use GitHub to share my projects, experiment with new technologies, document my work, and continuously improve my engineering skills.
+
+You can find more about my work and projects on my portfolio: https://mohammedahadjji.github.io/portfolio/
